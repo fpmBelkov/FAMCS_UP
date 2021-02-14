@@ -1,0 +1,11 @@
+commit f9fd0363c425c9f542ce6456ebfad60e96327e0d
+Author: Alexey Belkov <fpm.belkov@bsu.by>
+Date:   Sun Feb 14 23:43:34 2021 +0300
+
+    add status.txt
+
+commit e8b4e6c670c20d810c3958a9b056da8a74a59566
+Author: Alexey Belkov <fpm.belkov@bsu.by>
+Date:   Sun Feb 14 23:41:25 2021 +0300
+
+    add .gitignore
